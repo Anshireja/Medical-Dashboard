@@ -1,7 +1,7 @@
 # 🏥 Hospital Emergency Room Dashboard  
 ## 📄 Full Dashboard PDF  
 
-[View Dashboard PDF](docs/medical-dashboard.pdf)
+[View Dashboard PDF](https://github.com/Anshireja/Medical-Dashboard/blob/main/medical%20dashboard.pdf).
 
 ## 📸 Dashboard Preview  
 
