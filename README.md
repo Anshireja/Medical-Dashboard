@@ -6,13 +6,13 @@
 ## 📸 Dashboard Preview  
 
 ### Monthly View  
-![Monthly View]([screenshots/dashboard_page_1.png](https://github.com/Anshireja/Medical-Dashboard/blob/main/Screenshot%202025-08-25%20182945.png)  
+![Monthly View](https://github.com/Anshireja/Medical-Dashboard/blob/main/Screenshot%202025-08-25%20182945.png)  
 
 ### Consolidated View  
-![Consolidated View]([screenshots/dashboard_page_2.png](https://github.com/Anshireja/Medical-Dashboard/blob/main/Screenshot%202025-08-25%20183011.png)  
+![Consolidated View](https://github.com/Anshireja/Medical-Dashboard/blob/main/Screenshot%202025-08-25%20183011.png)  
 
 ### Patient Details  
-![Patient Details]([screenshots/dashboard_page_3.png](https://github.com/Anshireja/Medical-Dashboard/blob/main/Screenshot%202025-08-25%20183056.png)  
+![Patient Details](https://github.com/Anshireja/Medical-Dashboard/blob/main/Screenshot%202025-08-25%20183056.png)  
 
 
 
