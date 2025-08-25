@@ -1,7 +1,7 @@
 # 🏥 Hospital Emergency Room Dashboard  
 ## 📄 Full Dashboard PDF  
 
-[View Dashboard PDF](https://github.com/Anshireja/Medical-Dashboard/blob/main/medical%20dashboard.pdf).
+👉 **[View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjg5ZmRiNDYtZjQyNS00ZDNjLWExNGUtNTNjZGRkMzhhNWZmIiwidCI6IjVmOWU5YzE1LTcwZTYtNDYzMC05OTE1LWM3OTAyMzJmMTBiMCJ9)** 
 
 ## 📸 Dashboard Preview  
 
